@@ -1,1 +1,1 @@
-Sitemap: https://ellenbuckley.github.io/sitemap.xml
+Sitemap: http://ellenbuckley.com/sitemap.xml
