@@ -1,6 +1,6 @@
 ---
 name: Marvin Buckley
-image: images/photo.jpg
+image: images/marvin.jpg
 role: Original Lab
 
 ---
