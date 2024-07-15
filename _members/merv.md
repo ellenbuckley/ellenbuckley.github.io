@@ -1,6 +1,6 @@
 ---
 name: Marvin
-image: images/marvin.jpg
+image: images/marvin
 role: Original Lab
 decription: Original Lab
 ---
