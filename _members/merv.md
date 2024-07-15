@@ -1,5 +1,5 @@
 ---
-name: Marvin Buckley
+name: Marvin
 image: images/marvin.jpg
 role: Original Lab
 decription: Original Lab
