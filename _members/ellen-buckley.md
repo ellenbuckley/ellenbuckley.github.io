@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Ellen Buckley
 image: images/photo.jpg
-role: phd
-group: alum
+role: PI
 links:
-  github: john-doe
+  github: ellenbuckley
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
