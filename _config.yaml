@@ -9,10 +9,10 @@ proofer: false
 # site social media and other links
 links:
   email: ellen_buckley@brown.edu
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: https://github.com/ellenbuckley
-  twitter: https://x.com/ellenmbuckley
+  orcid: 0000-0001-7415-5054
+  google-scholar: WyKsIMwAAAAJ&hl
+  github: ellenbuckley
+  twitter: ellenmbuckley
   #youtube: ellenbuckleyDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
