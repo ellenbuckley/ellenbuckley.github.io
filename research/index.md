@@ -12,13 +12,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
+## Ongoing Work
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+Here discuss the projects the group is working on
+
+<!-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}->
 
 {% include section.html %}
 
-## All
+## Publications
 
 {% include search-box.html %}
 
