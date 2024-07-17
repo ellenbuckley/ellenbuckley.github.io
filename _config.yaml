@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: ellenbuckleyDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: The Buckley Lab
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@ellenbuckleyDESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: ellen_buckley@brown.edu
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: ellenbuckleyDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: ellenbuckleyDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: ellenbuckleyDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  github: https://github.com/ellenbuckley
+  twitter: https://x.com/ellenmbuckley
+  #youtube: ellenbuckleyDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
 
