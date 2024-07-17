@@ -17,12 +17,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="ellen_buckley [at] brown.edu"
   link="ellen_buckley@brown.edu"
 %}
-<!{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}>
+
 {%
   include button.html
   type="address"
