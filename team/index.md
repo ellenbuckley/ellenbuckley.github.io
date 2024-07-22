@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Dr. Buckley started the Buckley Lab at University of Illinois in Fall 2024. We are looking for more members! If you are an undergrad at U of I looking for research experience, prospective graduate student or postdoc, please visit the "Contact" tab to get in touch.
+Dr. Buckley started the Buckley Lab at the University of Illinois in Fall 2024. We are looking for more members! If you are an undergrad at U of I looking for research experience, prospective graduate student or postdoc, please visit the "Contact" tab to get in touch.
 
 {% include section.html %}
 
