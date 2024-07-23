@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Dr. Buckley started the Buckley Lab at the University of Illinois in Fall 2024. We are looking for more members! If you are an undergrad at U of I looking for research experience, prospective graduate student or postdoc, please visit the "Contact" tab to get in touch.
+Dr. Ellen Buckley started at the University of Illinois in the Fall of 2024 and is looking to expand the group! If you are an undergrad at UIUC looking for research experience, or a prospective graduate student or postdoc, please visit the "Contact" tab to get in touch.
 
 {% include section.html %}
 
@@ -22,12 +22,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.-->
 
 {% include section.html %}
 
-<!--{% capture content %}
+{% capture content %}
 
-{% include figure.html image="images/marvin" %}
-{% include figure.html image="images/marvin" %}
-{% include figure.html image="images/marvin" %}
+<!-- {% include figure.html image="images/marvin" %}-->
+<!-- {% include figure.html image="images/marvin" %}-->
+<!-- {% include figure.html image="images/marvin" %}-->
 
-{% endcapture %}-->
+{% endcapture %}
 
 {% include grid.html style="square" content=content %}
