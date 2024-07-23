@@ -15,7 +15,7 @@ Our research aims to understand the ongoing changes of the polar oceans by synth
 
 See the projects page for our current research focuses.
 
-<!--{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}-->
+<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
 
 {% include section.html %}
 
