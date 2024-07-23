@@ -16,18 +16,18 @@ Dr. Buckley started the Buckley Lab at the University of Illinois in Fall 2024. 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.-->
 
 {% include section.html %}
 
-{% capture content %}
+<!--{% capture content %}
 
 {% include figure.html image="images/marvin" %}
 {% include figure.html image="images/marvin" %}
 {% include figure.html image="images/marvin" %}
 
-{% endcapture %}
+{% endcapture %}-->
 
 {% include grid.html style="square" content=content %}
