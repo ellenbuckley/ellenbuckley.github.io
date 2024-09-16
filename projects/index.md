@@ -5,10 +5,9 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-#  {% include icon.html icon="fa-solid fa-icycles" %} Projects
+#  {% include icon.html icon="fa-icycles" %} Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am working on a number of ongoing projects. See below for more details on each project.
 
 {% include tags.html tags="publication, resource, website" %}
 
