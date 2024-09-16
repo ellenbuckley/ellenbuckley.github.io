@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,6 +202,37 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1029/2019JC015738
+  title: "Classification of Sea Ice Summer Melt Features in High\u2010Resolution IceBridge\
+    \ Imagery"
+  authors:
+  - Ellen M. Buckley
+  - "Sin\xE9ad L. Farrell"
+  - Kyle Duncan
+  - Laurence N. Connor
+  - John M. Kuhn
+  - RoseAnne T. Dominguez
+  publisher: 'Journal of Geophysical Research: Oceans'
+  date: '2020-12-04'
+  link: https://doi.org/ghz8cr
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: data
+    link: https://www.star.nesdis.noaa.gov/socd/lsa/SeaIce/SummerMeltClassification.php
+  - type: source
+    text: Manuscript Source
+    link: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JC015738
+  - type: code
+    link: https://github.com/ellenbuckley/MeltEvolution
+  tags:
+  - open science
+  - collaboration
+  repo: ellenbuckley/MeltEvolution
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
