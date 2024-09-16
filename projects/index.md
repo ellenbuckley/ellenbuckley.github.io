@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-#  {% include icon.html icon="fa-icycles" %} Projects
+#  {% include 'icon.html' icon='<i class="fa-solid fa-icicles"></i>' %} Projects
 
 I am working on a number of ongoing projects. See below for more details on each project.
 
