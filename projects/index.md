@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-#  {% include icon.html icon="fa-solid fa-icicles" %} Projects
+#  {% include icon.html icon="fa-solid fa-satellite" %} Projects
 
 I am working on a number of ongoing projects. See below for more details on each project.
 
