@@ -7,7 +7,7 @@ nav:
 
 #  {% include icon.html icon="fa-solid fa-icicles" %} Projects
 
-I am working on a number of ongoing projects. See below for more details on each project.
+We are working on a number of ongoing projects. See below for more details on each project.
 
 {% include tags.html tags="publication, resource, website" %}
 
