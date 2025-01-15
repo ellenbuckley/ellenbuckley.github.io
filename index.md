@@ -11,8 +11,7 @@
 
 {% capture text %}
 
-Take a look at some of our ongoing research projects!
-
+Read about some of the missions, data, and problems that inspire our work
 {%
   include button.html
   link="research"
@@ -34,7 +33,7 @@ Take a look at some of our ongoing research projects!
 
 {% capture text %}
 
-Browse our published datasets and papers.
+Take a look at the output from our group.
 
 {%
   include button.html
@@ -59,7 +58,7 @@ Browse our published datasets and papers.
 
 {% capture text %}
 
-Meet our research group.
+Learn more about the people (and pets) that make up our research group.
 
 {%
   include button.html
