@@ -34,8 +34,11 @@ jobs:
 
       - name: Install Bundler and Dependencies
         run: |
-          gem install bundler
+          gem install bundler --user-install
+          export PATH="$HOME/.gem/ruby/3.2.0/bin:$PATH"
           bundle install
+
+  
 
       - name: Build live version of site
         run: |
