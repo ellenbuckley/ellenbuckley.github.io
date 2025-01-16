@@ -49,6 +49,7 @@ Learn more about the people (and pets) that make up our research group.
 {%
   include feature.html
   image="images/marvin_office.png"
+  flip=true
   link="team"
   title="Our Team"
   text=text
@@ -74,7 +75,6 @@ Take a look at the output from our group.
   image="images/photo.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
   style="bare"
   text=text
 %}
