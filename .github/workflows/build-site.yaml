@@ -20,36 +20,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repository contents
       - name: Checkout branch contents
         uses: actions/checkout@v4
 
-      # Install Ruby and dependencies
-      - name: Install Ruby packages
-        uses: ruby/setup-ruby@v1.172.0
-        with:
-          ruby-version: "3.1"
-          bundler-cache: true
-
-      # Configure GitHub Pages URL
-      - name: Get Pages url
-        id: pages
-        uses: actions/configure-pages@v4
-
-      # Append the URL to the Jekyll configuration
-      - name: Set root url
+      - name: Install Ruby manually
         run: |
-          printf "\n\nurl: ${{ steps.pages.outputs.origin }}" >> _config.yaml
+          sudo apt-get update
+          sudo apt-get install -y curl git autoconf bison build-essential libssl-dev libyaml-dev libreadline-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm6 libgdbm-dev
+          curl -fsSL https://github.com/rbenv/ruby-build/archive/master.tar.gz | tar -xzC /tmp
+          sudo PREFIX=/usr/local /tmp/ruby-build-master/install.sh
+          sudo ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
+          sudo touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
 
-      # Build the Jekyll site
+      - name: Install Bundler and Dependencies
+        run: |
+          gem install bundler
+          bundle install
+
       - name: Build live version of site
         run: |
           JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}"
 
-      # Deploy site to GitHub Pages
-      - name: Commit live site to Pages branch
+      - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
           folder: _site
-          clean-exclude: ${{ env.PREVIEWS_FOLDER }}
-          force: false
