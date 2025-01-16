@@ -34,8 +34,9 @@ jobs:
 
       - name: Install Bundler and Dependencies
         run: |
-          gem install bundler --user-install
-          export PATH="$HOME/.gem/ruby/3.2.0/bin:$PATH"
+          export GEM_HOME=$(pwd)/.gem
+          export PATH="$GEM_HOME/bin:$PATH"
+          gem install bundler
           bundle install
 
   
