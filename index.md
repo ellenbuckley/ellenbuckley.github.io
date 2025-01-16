@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Read about some of the missions, data, and problems that inspire our work
+Read about some of the missions, data, and problems that inspire our work and check out our publications.
 {%
   include button.html
   link="research"
@@ -28,6 +28,29 @@ Read about some of the missions, data, and problems that inspire our work
   image="images/dms.png"
   link="research"
   title="Our Research"
+  text=text
+%}
+
+{% capture text %}
+
+Learn more about the people (and pets) that make up our research group.
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/marvin_office.png"
+  link="team"
+  title="Our Team"
   text=text
 %}
 
@@ -56,25 +79,4 @@ Take a look at the output from our group.
   text=text
 %}
 
-{% capture text %}
 
-Learn more about the people (and pets) that make up our research group.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/marvin_office"
-  link="team"
-  title="Our Team"
-  text=text
-%}
