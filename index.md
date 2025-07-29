@@ -62,7 +62,7 @@ See what projects we are currently working on.
 {%
   include button.html
   link="projects"
-  text="Our Projects"
+  text="Check out projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,7 +74,7 @@ See what projects we are currently working on.
   include feature.html
   image="images/IMG_5620.JPG"
   link="projects"
-  title="Our Projects"
+  title="Check out our projects"
   style="bare"
   text=text
 %}
