@@ -57,12 +57,12 @@ Learn more about the people (and pets) that make up our research group.
 
 {% capture text %}
 
-Take a look at the output from our group.
+See what projects we are currently working on.
 
 {%
   include button.html
   link="projects"
-  text="Browse our publications"
+  text="Our Projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -72,7 +72,7 @@ Take a look at the output from our group.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IMG_5620.JPG"
   link="projects"
   title="Our Projects"
   style="bare"
