@@ -1,6 +1,6 @@
 ---
 name: Rose Malanga
-image: images/rose
+image: images/rose.png
 role: Graduate Student
 description: Graduate Student
 ---
