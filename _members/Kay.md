@@ -1,8 +1,8 @@
 ---
-name: Rose Malanga
-image: images/rose
+name: Kay Sivaraj
+image: 
 role: Graduate Student
 
 ---
 
-Rose is a first-year Ph.D. student in the Buckley Lab. She holds a B.S. in Geological Sciences and Environmental Science from Tufts University, as well as an M.S. in Remote Sensing and Geospatial Sciences from Boston University. Rose hopes to use a combination of optical and SAR data to research ice shelves and mélange, especially relating to Antarctica. 
+Kay is a PhD student with a special interest in Arctic remote sensing. She hails from Tamil Nadu, India, where she completed her Bachelor’s degree in Civil Engineering. She also holds a Master’s degree in Geology from Michigan Technological University. Her research interests are exploring optical and SAR remote sensing to improve the understanding of changing sea ice, glaciers, and ice islands. In her free time, she crochets cardigans, beanies, and watches horror movies.
