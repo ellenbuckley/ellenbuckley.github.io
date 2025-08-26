@@ -2,7 +2,7 @@
 name: Marvin
 image: images/marvin
 role: Dog
-description: Lab Dog
+description: Lab Manager
 order: 99
 ---
 
