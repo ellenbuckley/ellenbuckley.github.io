@@ -1,222 +1,291 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.5194/egusphere-2024-3864
+  title: 'Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part
+    2: Gridded Data Comparison and Bias Estimation'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Christopher Horvat
+  - Ellen M. Buckley
+  - Madelyn Stewart
+  publisher: Copernicus GmbH
+  date: '2025-01-14'
+  link: https://doi.org/g9zgdp
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.5194/egusphere-2024-3861
+  title: 'Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part
+    1: Multi-sensor Comparison of Sea Ice Concentration Products'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Ellen M. Buckley
+  - Christopher Horvat
+  - Pittayuth Yoosiri
+  publisher: Copernicus GmbH
+  date: '2024-12-17'
+  link: https://doi.org/g9zgdq
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.5194/tc-18-5031-2024
+  title: Seasonal evolution of the sea ice floe size distribution in the Beaufort
+    Sea from 2 decades of MODIS data
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Ellen M. Buckley
+  - "Leela Ca\xF1uelas"
+  - Mary-Louise Timmermans
+  - Monica M. Wilhelmus
+  publisher: The Cryosphere
+  date: '2024-11-06'
+  link: https://doi.org/g9zgdr
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.5194/egusphere-2024-89
+  title: Seasonal Evolution of the Sea Ice Floe Size Distribution from Two Decades
+    of MODIS Data
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Ellen Margaret Buckley
+  - "Leela Ca\xF1uelas"
+  - Mary-Louise Timmermans
+  - Monica Martinez Wilhelmus
+  publisher: Copernicus GmbH
+  date: '2024-01-19'
+  link: https://doi.org/g9zgds
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.5194/egusphere-2023-2312
+  title: 'Linear Ice Fraction: Sea Ice Concentration Estimates from the ICESat-2 Laser
+    Altimeter'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Christopher Horvat
+  - Ellen Buckley
+  - Madelyn Stewart
+  - Poom Yoosiri
+  - Monica M. Wilhelmus
+  publisher: Copernicus GmbH
+  date: '2023-10-24'
+  link: https://doi.org/g9zgdt
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.5194/tc-17-3695-2023
+  title: Observing the evolution of summer melt on multiyear sea ice with ICESat-2
+    and Sentinel-2
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Ellen M. Buckley
+  - "Sin\xE9ad L. Farrell"
+  - Ute C. Herzfeld
+  - Melinda A. Webster
+  - Thomas Trantow
+  - Oliwia N. Baney
+  - Kyle A. Duncan
+  - Huilin Han
+  - Matthew Lawson
+  publisher: The Cryosphere
+  date: '2023-08-31'
+  link: https://doi.org/g9zgdv
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.5194/egusphere-2023-189
+  title: Observing the Evolution of Summer Melt on Multiyear Sea Ice with ICESat-2
+    and Sentinel-2
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Ellen Margaret Buckley
+  - "Sin\xE9ad Louise Farrell"
+  - Ute C. Herzfeld
+  - Melinda A. Webster
+  - Thomas Trantow
+  - Oliwia N. Baney
+  - Kyle A. Duncan
+  - Huilin Han
+  - Matthew Lawson
+  publisher: Copernicus GmbH
+  date: '2023-02-13'
+  link: https://doi.org/g9zgdw
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1109/tgrs.2023.3268073
+  title: "Automated Detection and Depth Determination of Melt Ponds on Sea Ice in\
+    \ ICESat-2 ATLAS Data\u2014The Density-Dimension Algorithm for Bifurcating Sea-Ice\
+    \ Reflectors (DDA-Bifurcate-Seaice)"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Ute Christina Herzfeld
+  - Thomas M. Trantow
+  - Huilin Han
+  - Ellen Buckley
+  - "Sin\xE9ad Louise Farrell"
+  - Matthew Lawson
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2023-01-01'
+  link: https://doi.org/g7p9k5
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.36227/techrxiv.21300153.v1
+  title: "Automated Detection and Depth Determination of Melt Ponds on Sea Ice in\
+    \ ICESat-2 ATLAS Data \u2014 The Density-Dimension Algorithm for Bifurcating Sea-Ice\
+    \ Reflectors (DDA-bifurcate-seaice)"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Ute Herzfeld
+  - Thomas Trantow
+  - Huilin Han
+  - Ellen Buckley
+  - Sinead Farrell
+  - Matthew Lawson
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2022-10-10'
+  link: https://doi.org/g9zgdx
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.36227/techrxiv.21300153
+  title: "Automated Detection and Depth Determination of Melt Ponds on Sea Ice in\
+    \ ICESat-2 ATLAS Data \u2014 The Density-Dimension Algorithm for Bifurcating Sea-Ice\
+    \ Reflectors (DDA-bifurcate-seaice)"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Ute Herzfeld
+  - Thomas Trantow
+  - Huilin Han
+  - Ellen Buckley
+  - Sinead Farrell
+  - Matthew Lawson
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2022-10-10'
+  link: https://doi.org/g9zgdz
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/essoar.10509479.1
+  title: Evolution of Melt Pond Fraction and Depth on Multiyear Ice in 2020 from High
+    Resolution Satellite Observations
+  authors:
+  - Ellen Buckley
+  - "Sin\xE9ad Farrell"
+  - Oliwia Baney
+  - Kyle Duncan
+  - Ute Herzfeld
+  - Thomas Trantow
+  - Matthew Lawson
+  publisher: Wiley
+  date: '2021-12-14'
+  link: https://doi.org/g9zgd2
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/essoar.10509479.2
+  title: Evolution of Melt Pond Fraction and Depth on Multiyear Ice in 2020 from High
+    Resolution Satellite Observations
+  authors:
+  - Ellen Buckley
+  - "Sin\xE9ad Farrell"
+  - Oliwia Baney
+  - Kyle Duncan
+  - Ute Herzfeld
+  - Thomas Trantow
+  - Matthew Lawson
+  publisher: Wiley
+  date: '2021-12-14'
+  link: https://doi.org/g9zgd3
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/essoar.10508493.1
+  title: ICESat-2 observations of melt ponds on Arctic sea ice
+  authors:
+  - Ellen Buckley
+  - "Sin\xE9ad Farrell"
+  - Kyle Duncan
+  - Ute Herzfeld
+  publisher: Wiley
+  date: '2021-10-26'
+  link: https://doi.org/g9zgd4
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2020rg000712
+  title: "The Scientific Legacy of NASA\u2019s Operation IceBridge"
+  authors:
+  - Joseph A. MacGregor
+  - Linette N. Boisvert
+  - Brooke Medley
+  - Alek A. Petty
+  - Jeremy P. Harbeck
+  - Robin E. Bell
+  - J. Bryan Blair
+  - "Edward Blanchard\u2010Wrigglesworth"
+  - Ellen M. Buckley
+  - Michael S. Christoffersen
+  - James R. Cochran
+  - "Be\xE1ta M. Csath\xF3"
+  - Eugenia L. De Marco
+  - RoseAnne T. Dominguez
+  - Mark A. Fahnestock
+  - "Sin\xE9ad L. Farrell"
+  - S. Prasad Gogineni
+  - Jamin S. Greenbaum
+  - Christy M. Hansen
+  - Michelle A. Hofton
+  - John W. Holt
+  - Kenneth C. Jezek
+  - Lora S. Koenig
+  - Nathan T. Kurtz
+  - Ronald Kwok
+  - Christopher F. Larsen
+  - Carlton J. Leuschen
+  - Caitlin D. Locke
+  - Serdar S. Manizade
+  - Seelye Martin
+  - Thomas A. Neumann
+  - Sophie M.J. Nowicki
+  - John D. Paden
+  - "Jacqueline A. Richter\u2010Menge"
+  - Eric J. Rignot
+  - "Fernando Rodr\xEDguez\u2010Morales"
+  - Matthew R. Siegfried
+  - Benjamin E. Smith
+  - John G. Sonntag
+  - Michael Studinger
+  - Kirsty J. Tinto
+  - Martin Truffer
+  - Thomas P. Wagner
+  - John E. Woods
+  - Duncan A. Young
+  - James K. Yungel
+  publisher: Reviews of Geophysics
+  date: '2021-06-01'
+  link: https://doi.org/gpczrr
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2020GL090708
+  title: "Mapping Sea Ice Surface Topography in High Fidelity With ICESat\u20102"
+  authors:
+  - S. L. Farrell
+  - K. Duncan
+  - E. M. Buckley
+  - "J. Richter\u2010Menge"
+  - R. Li
+  publisher: Geophysical Research Letters
+  date: '2020-11-02'
+  link: https://doi.org/g9zgd5
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/essoar.10504391.1
+  title: Mapping Sea Ice Surface Topography in High Fidelity with ICESat-2
+  authors:
+  - "Sin\xE9ad Farrell"
+  - Kyle Duncan
+  - Ellen Buckley
+  - Jacqueline Richter-Menge
+  - Ruohan Li
+  publisher: Wiley
+  date: '2020-09-24'
+  link: https://doi.org/g9zgd6
+  orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1029/2019JC015738
@@ -232,6 +301,9 @@
   publisher: 'Journal of Geophysical Research: Oceans'
   date: '2020-12-04'
   link: https://doi.org/ghz8cr
+  orcid: 0000-0001-7415-5054
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -248,8 +320,31 @@
   - open science
   - collaboration
   repo: ellenbuckley/MeltEvolution
-  plugin: sources.py
-  file: sources.yaml
+- id: doi:10.5194/tc-2019-288-SC1
+  title: Comments on "Observations of Sea Ice Melt from Operation IceBridge Imagery"
+  authors: []
+  publisher: Copernicus GmbH
+  date: '2020-02-11'
+  link: https://doi.org/g9zgd7
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/essoar.10500735.1
+  title: Classification of Arctic Sea Ice Surface Types During the Melt Season in
+    High-Resolution IceBridge Imagery
+  authors:
+  - Ellen Buckley
+  - "Sin\xE9ad Farrell"
+  - Kyle Duncan
+  - Laurence Connor
+  - John Kuhn
+  - RoseAnne Dominguez
+  publisher: Wiley
+  date: '2019-02-13'
+  link: https://doi.org/g9zgd8
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
