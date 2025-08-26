@@ -1,47 +1,32 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Floe Size Distributon Segmentation Code
+  subtitle:
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/fsd_methods.png
+  link: https://zenodo.org/records/14010776
+  description: A new segmentation routine used for FSD and accurate floe characteristics. Used for the floe size distribution in: Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M.: Seasonal evolution of the sea ice floe size distribution in the Beaufort Sea from 2 decades of MODIS data, 
+The Cryosphere, 18, 5031–5043, https://doi.org/10.5194/tc-18-5031-2024, 2024.
+  repo: 
   tags:
-    - resource
+    - code
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Floe Size Distributon Segmentation Code
+  subtitle:
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/fsd.png
+  link: https://zenodo.org/records/11553700
+  description: MODIS imagery segmented into individual sea ice floes in the Beaufort Sea 2003-2022. Used for the floe size distribution in: Buckley, E. M., Cañuelas, L., Timmermans, M.-L., and Wilhelmus, M. M.: Seasonal evolution of the sea ice floe size distribution in the Beaufort Sea from 2 decades of MODIS data, 
+The Cryosphere, 18, 5031–5043, https://doi.org/10.5194/tc-18-5031-2024, 2024.
+  repo: 
   tags:
-    - resource
+    - data
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Surface Classification of Opertation IceBridge April 2018 Imagery
+  subtitle: 
+  image: images/oib_class.png
+  link: https://zenodo.org/records/13129097
+  description: Classification algorithm applied to OIB April 2018 imagery
+  repo: 
   tags:
-    - resource
-    - publication
+    - data
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
