@@ -1,7 +1,7 @@
 ---
 name: Ellen Buckley
 image: images/Ellen.jpg
-role: PI
+role: pi
 description: PI
 links:
   github: ellenbuckley
