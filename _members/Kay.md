@@ -1,6 +1,6 @@
 ---
 name: Kay Sivaraj
-image: kay.png
+image: images/kay.png
 role: Graduate Student
 
 ---
