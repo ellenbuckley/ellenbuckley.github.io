@@ -7,7 +7,7 @@ nav:
 
 #  {% include icon.html icon="fa-solid fa-icicles" %} Projects
 
-We are working on a number of ongoing projects. See below for more details on each project.
+Here is a list of all shared data products and code from the group. See below for more details on each output.
 
 {% include tags.html tags="publication, resource, website" %}
 
