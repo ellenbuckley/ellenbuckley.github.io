@@ -13,7 +13,7 @@ Our research aims to understand the ongoing changes of the polar oceans by synth
 
 ## Ongoing Work
 
-See the projects page for our current research focuses.
+See the products page for our group data products and code.
 
 <!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
 
