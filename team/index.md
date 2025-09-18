@@ -13,7 +13,12 @@ Dr. Ellen Buckley started at the University of Illinois in the Fall of 2024 and 
 
 
 
-{% include list.html data="members" component="portrait"  sort_by="order" sort_order="ascending" %}
+{% include list.html
+  collection=site.members
+  component="portrait"
+  sort_by="order"
+  sort_order="ascending"
+  group_by_year=false %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
