@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.22541/essoar.175827334.49117064/v1
+  title: From spinning sea ice floes to ocean enstrophy spectra in the Marginal Ice
+    Zone
+  authors:
+  - Minki Kim
+  - Georgy E Manucharyan
+  - Michelle H DiBenedetto
+  - Ellen M Buckley
+  - Daniel M Watkins
+  - Monica M Wilhelmus
+  publisher: Wiley
+  date: '2025-09-19'
+  link: https://doi.org/g94hp4
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5194/egusphere-2024-3864
   title: 'Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part
     2: Gridded Data Comparison and Bias Estimation'
