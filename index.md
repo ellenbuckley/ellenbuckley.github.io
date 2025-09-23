@@ -57,7 +57,7 @@ Learn more about the people (and pets) that make up our research group.
 
 {% capture text %}
 
-See what projects we are currently working on.
+See what products we have created.
 
 {%
   include button.html
@@ -72,7 +72,7 @@ See what projects we are currently working on.
 
 {%
   include feature.html
-  image="images/IMG_5620.JPG"
+  image="images/fsd.png"
   link="projects"
   title="Check out our projects"
   style="bare"
