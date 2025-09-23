@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-#  {% include icon.html icon="fa-solid fa-icicles" %} Projects
+#  {% include icon.html icon="fa-solid fa-icicles" %} Products
 
 Here is a list of all shared data products and code from the group. See below for more details on each output.
 
