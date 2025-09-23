@@ -9,6 +9,8 @@ nav:
 
 Stop by my office at University of Illinois, Room 3040 in the Natural History Building, or reach out to me via email.
 
+
+<!--
 {%
   include button.html
   type="email"
@@ -22,7 +24,7 @@ Stop by my office at University of Illinois, Room 3040 in the Natural History Bu
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps/place/Natural+History+Building/@40.1094472,-88.2260208,15z/data=!4m2!3m1!1s0x0:0xb909a2be79954909?sa=X&ved=1t:2428&ictx=111"
 %}
-<!--
+
 {% include section.html %}
 
 {% capture col1 %}
