@@ -74,7 +74,7 @@ See what products we have created.
   include feature.html
   image="images/fsd.png"
   link="projects"
-  title="Check out our projects"
+  title="Check out our products"
   style="bare"
   text=text
 %}
