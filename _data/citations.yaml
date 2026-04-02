@@ -377,7 +377,6 @@
   file: sources.yaml
   type: paper
   description: null
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
   - type: data
     link: https://www.star.nesdis.noaa.gov/socd/lsa/SeaIce/SummerMeltClassification.php
