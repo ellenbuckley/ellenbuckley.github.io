@@ -7,10 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Stop by my office at University of Illinois, Room 3040 in the Natural History Building, or reach out to me via email.
+Stop by my office at University of Illinois, Room 3040 in the Natural History Building, or reach out via email.
 
+{% include button.html
+  type="email"
+  text="buckley0@illinois.edu"
+  link="mailto:buckley0@illinois.edu"
+%}
 
-<!--
+{% include button.html
+  type="address"
+  text="Natural History Building, UIUC"
+  link="https://www.google.com/maps/place/Natural+History+Building,+University+of+Illinois"
+%}
+
+{% comment %}
 {%
   include button.html
   type="email"
@@ -62,6 +73,7 @@ Lorem ipsum dolor sit amet
 consectetur adipiscing elit  
 sed do eiusmod tempor
 {% endcapture %}
+{% endcomment %}
 
 {% capture col3 %}
 Lorem ipsum dolor sit amet  
