@@ -18,7 +18,7 @@ Stop by my office at University of Illinois, Room 3040 in the Natural History Bu
 {% include button.html
   type="address"
   text="Natural History Building, UIUC"
-  link="google.com/maps/place/Natural+History+Building/data=!4m2!3m1!1s0x0:0xb909a2be79954909?sa=X&ved=1t:2428&ictx=111"
+  link="https://google.com/maps/place/Natural+History+Building/data=!4m2!3m1!1s0x0:0xb909a2be79954909?sa=X&ved=1t:2428&ictx=111"
 %}
 
 
