@@ -27,6 +27,6 @@
       style="--image: url('{{ background | relative_url }}')"
     {% endif %}
   >
-    {{ section }}
+    {{ section | replace: "&lt;", "<" | replace: "&gt;", ">" }}
   </section>
 {% endfor %}
