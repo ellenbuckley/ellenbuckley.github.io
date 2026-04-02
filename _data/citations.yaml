@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1029/2025GL119371
+  title: From Spinning Sea Ice Floes to Ocean Enstrophy Spectra in the Marginal Ice
+    Zone
+  authors:
+  - M. Kim
+  - G. E. Manucharyan
+  - M. H. DiBenedetto
+  - E. M. Buckley
+  - D. M. Watkins
+  - M. M. Wilhelmus
+  publisher: Geophysical Research Letters
+  date: '2026-03-21'
+  link: https://doi.org/hbvr5h
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5194/egusphere-egu26-17515
   title: Advancing Arctic summer sea ice freeboard from ICESat-2
   authors:
@@ -213,23 +229,6 @@
   orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/essoar.10509479.1
-  title: Evolution of Melt Pond Fraction and Depth on Multiyear Ice in 2020 from High
-    Resolution Satellite Observations
-  authors:
-  - Ellen Buckley
-  - "Sin\xE9ad Farrell"
-  - Oliwia Baney
-  - Kyle Duncan
-  - Ute Herzfeld
-  - Thomas Trantow
-  - Matthew Lawson
-  publisher: Wiley
-  date: '2021-12-14'
-  link: https://doi.org/g9zgd2
-  orcid: 0000-0001-7415-5054
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/essoar.10509479.2
   title: Evolution of Melt Pond Fraction and Depth on Multiyear Ice in 2020 from High
     Resolution Satellite Observations
@@ -244,6 +243,23 @@
   publisher: Wiley
   date: '2021-12-14'
   link: https://doi.org/g9zgd3
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/essoar.10509479.1
+  title: Evolution of Melt Pond Fraction and Depth on Multiyear Ice in 2020 from High
+    Resolution Satellite Observations
+  authors:
+  - Ellen Buckley
+  - "Sin\xE9ad Farrell"
+  - Oliwia Baney
+  - Kyle Duncan
+  - Ute Herzfeld
+  - Thomas Trantow
+  - Matthew Lawson
+  publisher: Wiley
+  date: '2021-12-14'
+  link: https://doi.org/g9zgd2
   orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
@@ -381,6 +397,23 @@
   publisher: Copernicus GmbH
   date: '2020-02-11'
   link: https://doi.org/g9zgd7
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/essoar.10500735.2
+  title: Classification of Arctic Sea Ice Surface Types During the Melt Season in
+    High-Resolution IceBridge Imagery
+  authors:
+  - Ellen Buckley
+  - "Sin\xE9ad Farrell"
+  - Kyle Duncan
+  - Laurence Connor
+  - John Kuhn
+  - RoseAnne Dominguez
+  - "Sin\xE9ad Farrell"
+  publisher: Wiley
+  date: '2019-02-18'
+  link: https://doi.org/hbvr5j
   orcid: 0000-0001-7415-5054
   plugin: orcid.py
   file: orcid.yaml
