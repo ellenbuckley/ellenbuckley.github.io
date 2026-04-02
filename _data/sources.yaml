@@ -2,7 +2,6 @@
   type: paper
   description: 
   date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
     - type: data
       link: https://www.star.nesdis.noaa.gov/socd/lsa/SeaIce/SummerMeltClassification.php
