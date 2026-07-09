@@ -1,4 +1,5 @@
 ---
+title: Home
 ---
 
 # The Buckley Lab at University of Illinois
@@ -88,7 +89,6 @@ See what products we have created.
   {{ lab_text | markdownify}}
 </div>
 {% include section.html %}
-
 
 
 

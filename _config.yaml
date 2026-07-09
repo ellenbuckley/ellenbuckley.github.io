@@ -1,8 +1,16 @@
+# site url (used to build og:url / twitter:url and other absolute links)
+url: https://www.ellenbuckley.com
+
 # site properties and page defaults
 title: The Buckley Lab
-#subtitle: website under construction (Fall 2024)
-description: University of Illinois Urbana-Champaign
+subtitle: Sea ice and polar oceans, observed from above
+description: We study the dynamics of sea ice and the polar oceans using remote sensing and field observations, integrating satellite, airborne, and in-situ data to understand a rapidly changing Arctic and Antarctic.
 header: images/IMG_0812.png
+# header-video: a video (mp4) to autoplay behind the header instead of a static image.
+# Upload the file to videos/header.mp4 in the repo root, then uncomment the line below.
+# The `header` image above is still used as the poster/fallback for browsers that can't
+# play the video and for visitors with "reduce motion" preferences enabled.
+# header-video: videos/header.mp4
 footer: images/IMG_0812.png
 proofer: false
 
@@ -13,7 +21,7 @@ links:
   google-scholar: WyKsIMwAAAAJ&hl
   github: ellenbuckley
   twitter: ellenmbuckley
-  #youtube: ellenbuckleyDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  #youtube: ellenbuckley
 
 ### jekyll settings
 
