@@ -258,7 +258,7 @@
   - Thomas Trantow
   - Matthew Lawson
   publisher: Wiley
-  date: '2021-12-14'
+  date: '2021-12-13'
   link: https://doi.org/g9zgd2
   orcid: 0000-0001-7415-5054
   plugin: orcid.py
@@ -354,7 +354,7 @@
   - Jacqueline Richter-Menge
   - Ruohan Li
   publisher: Wiley
-  date: '2020-09-24'
+  date: '2020-09-23'
   link: https://doi.org/g9zgd6
   orcid: 0000-0001-7415-5054
   plugin: orcid.py
@@ -425,8 +425,9 @@
   - Laurence Connor
   - John Kuhn
   - RoseAnne Dominguez
+  - "Sin\xE9ad Farrell"
   publisher: Wiley
-  date: '2019-02-13'
+  date: '2019-01-28'
   link: https://doi.org/g9zgd8
   orcid: 0000-0001-7415-5054
   plugin: orcid.py
