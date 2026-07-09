@@ -1,4 +1,6 @@
 {% assign image = page.header | default: site.header | relative_url %}
+{% assign video-src = page.header-video | default: site.header-video %}
+{% assign video = video-src | relative_url %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
 {% assign svg = "images/cropped_animated_satellite.svg" | file_exists %}
@@ -7,7 +9,7 @@
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
 <header
-  class="background"
+  class="{% if video-src %}video-background{% else %}background{% endif %}"
   style="--image: url('{{ image }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
@@ -16,6 +18,18 @@
     data-big
   {% endif %}
 >
+  {% if video-src %}
+    <video
+      class="header-video"
+      src="{{ video }}"
+      poster="{{ image }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+  {% endif %}
+
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
       <span class="logo">
