@@ -19,4 +19,15 @@ It was my first sea-going fieldwork, and the first time I saw a melt pond on Ant
 
 We wrapped up the cruise with a stop at Palmer Station before a rougher crossing back through the Drake Passage, arriving in Punta Arenas on February 14.
 
+{% capture content %}
+
+{% include figure.html image="images/snowpit.jpg" %}
+{% include figure.html image="images/core_ant.jpg" %}
+{% include figure.html image="images/penguins.jpg" %}
+{% include figure.html image="images/rosesnow.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
 You can read more about the trip from the [Society for Women in Marine Science](https://www.swmsmarinescience.com/swms-blog/all-women-team-leads-research-cruise-to-antarctica) and [Sierra Magazine](https://www.sierraclub.org/sierra/meet-kriller-queens-antarctica-women-polar-scientists).
