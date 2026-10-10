@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1029/2026GL124704
+  title: "First Assessment of ICESat\u20102 Summer Sea Ice Freeboard With Airborne\
+    \ Validation"
+  authors:
+  - Ellen M. Buckley
+  - Sahra Kacimi
+  - Melinda Webster
+  - Siddarth Harrison
+  - Kutalmis Saylam
+  - Nathan T. Kurtz
+  - Rachel L. Tilling
+  publisher: Geophysical Research Letters
+  date: '2026-08-06'
+  link: https://doi.org/hcm53g
+  orcid: 0000-0001-7415-5054
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1029/2025GL119371
   title: From Spinning Sea Ice Floes to Ocean Enstrophy Spectra in the Marginal Ice
     Zone
